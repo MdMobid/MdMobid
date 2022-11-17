@@ -59,11 +59,23 @@
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
       width="40"
   /></a>
+</p>
 
   ㅤ
-</p>
 <p>
   <img
     align="center"
     alt="MobidGenius"
-    src="https://github-readme-stats.vercel.app/api?username=MobidGenius&amp;show_icons=true
+    src="https://github-readme-stats.vercel.app/api?username=MobidGenius&amp;show_icons=true&amp;theme=midnight-purple"
+  />
+</p>
+
+ㅤ
+<p>
+  <img
+    align="center"
+    alt="MobidGenius"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobidGenius&amp;layout=compact&amp;theme=radical&amp;show_icons=true"
+  />
+</p>
+<p></p>
