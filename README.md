@@ -4,8 +4,8 @@
 ㅤ
 <p align="center">
   <img
-    alt="MobidX"
-    src="https://komarev.com/ghpvc/?username=MobidGenius&amp;label=Profile%20views&amp;color=0e75b6&amp;style=plastic"
+    alt="MdMobid"
+    src="https://komarev.com/ghpvc/?username=MdMobid&amp;label=Profile%20views&amp;color=0e75b6&amp;style=plastic"
   />
 </p>
 
@@ -65,8 +65,8 @@
 <p>
   <img
     align="center"
-    alt="MobidGenius"
-    src="https://github-readme-stats.vercel.app/api?username=MobidGenius&amp;show_icons=true&amp;theme=midnight-purple"
+    alt="MdMobid"
+    src="https://github-readme-stats.vercel.app/api?username=MdMobid&amp;show_icons=true&amp;theme=midnight-purple"
   />
 </p>
 
@@ -74,8 +74,8 @@
 <p>
   <img
     align="center"
-    alt="MobidGenius"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MobidGenius&amp;layout=compact&amp;theme=radical&amp;show_icons=true"
+    alt="MdMobid"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMobid&amp;layout=compact&amp;theme=radical&amp;show_icons=true"
   />
 </p>
 <p></p>
