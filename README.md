@@ -9,16 +9,7 @@
   />
 </p>
 
-- ⚡ Fun Fact **I'm still a Learner.** 
-  <a href="https://redis.io" target="_blank">
-    <img
-      alt="redis"
-      height="40"
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-      width="40"
-  /></a>
-</p>
-
+<!--- ⚡ Fun Fact **I'm still a Learner.** --> 
   ㅤ
 <p>
   <img
