@@ -9,11 +9,9 @@
 ## 🛠️ Languages and tools
 </br>
 
-[![Languages and Tools](https://skillicons.dev/icons?i=bash,vscode,git,github,html,py,js&perline=10)](https://xditya.me)
+[![Languages and Tools](https://skillicons.dev/icons?i=bash,vscode,git,github,html,py,js&perline=10)](https://github.com/MdMobid)
 
 ---
 
 ## 👨‍💻 LOC
 [![Lines of Code](https://api.githubtrends.io/user/svg/MdMobid/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://github.com/mdmobid)
-
----
