@@ -1,7 +1,7 @@
 ## Hi, I'm [Md Mobid](https://github.com/MdMobid) , Welcome to my GitHub Profile!
 
 [![Profile views](https://komarev.com/ghpvc/?username=MdMobid&label=Profile%20views&style=for-the-badge)](https://github.com/MdMobid)
-- 💫 I’m currently working on [Quadroid](https://github.com/Curious-Squad/Quadroid)
+- 💫 I’m currently working on [Quadroid](https://github.com/MdMobid/Quadroid)
 - ⚡ Always ready to learn new things!
 
 ---
