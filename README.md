@@ -1,30 +1,19 @@
-<h1 align="center">Hi 👋 I'm Mobid</h1>
+## Hi, I'm [Mobid](https://github.com/MdMobid). Welcome to my GitHub Profile!
 
-<h2 align="center">A Passionate Python Developer from India</h2>
-ㅤ
-<p align="center">
-  <img
-    alt="MdMobid"
-    src="https://komarev.com/ghpvc/?username=MdMobid&amp;label=Profile%20views&amp;color=0e75b6&amp;style=plastic"
-  />
-</p>
+[![Profile views](https://komarev.com/ghpvc/?username=MdMobid&label=Profile%20views&style=for-the-badge)](https://github.com/MdMobid)
+- 💫 I’m currently working on [Quadroid](https://github.com/Curious-Squad/Quadroid)
+- ⚡ Always ready to learn new things!
 
-<!--- ⚡ Fun Fact **I'm still a Learner.** --> 
-  ㅤ
-<p>
-  <img
-    align="center"
-    alt="MdMobid"
-    src="https://github-readme-stats.vercel.app/api?username=MdMobid&amp;show_icons=true&amp;theme=midnight-purple"
-  />
-</p>
+---
 
-ㅤ
-<p>
-  <img
-    align="center"
-    alt="MdMobid"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdMobid&amp;layout=compact&amp;theme=radical&amp;show_icons=true"
-  />
-</p>
-<p></p>
+## 🛠️ Languages and tools
+</br>
+
+[![Languages and Tools](https://skillicons.dev/icons?i=bash,vscode,git,github,html,py,js&perline=10)](https://xditya.me)
+
+---
+
+## 👨‍💻 LOC
+[![Lines of Code](https://api.githubtrends.io/user/svg/MdMobid/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://github.com/mdmobid)
+
+---
