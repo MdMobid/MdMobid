@@ -9,7 +9,7 @@
 ## 🛠️ Languages and tools
 </br>
 
-[![Languages and Tools](https://skillicons.dev/icons?i=bash,vscode,git,github,html,py,js&perline=10)](https://github.com/MdMobid)
+[![Languages and Tools](https://skillicons.dev/icons?i=py,js,vscode,github,bash,git,html&perline=10)](https://github.com/MdMobid)
 
 ---
 
