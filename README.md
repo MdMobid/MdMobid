@@ -13,7 +13,7 @@
 
 ---
 
-## 👨🏻‍💻 WakaTime Stats
+## ⏱️ Coding Activity
 
 <!--START_SECTION:waka-->
 
@@ -31,5 +31,5 @@ Nix          6 mins          ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 ---
 
-## 👨‍💻 LOC
+## 🧑🏻‍💻 Lines of Code
 [![Lines of Code](https://api.githubtrends.io/user/svg/MdMobid/langs?time_range=all_time&include_private=True&loc_metric=changed&theme=dark)](https://github.com/MdMobid)
