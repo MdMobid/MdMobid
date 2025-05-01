@@ -13,5 +13,23 @@
 
 ---
 
+## 👨🏻‍💻 WakaTime Stats
+
+<!--START_SECTION:waka-->
+
+```txt
+Total Time: 654 hrs 2 mins
+
+Python            233 hrs 37 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   35.72 %
+TypeScript        199 hrs 14 mins ⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   30.46 %
+Dart              52 hrs 12 mins  ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.98 %
+Kotlin            40 hrs 55 mins  ⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.26 %
+JavaScript        35 hrs 30 mins  ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.43 %
+```
+
+<!--END_SECTION:waka-->
+
+---
+
 ## 👨‍💻 LOC
 [![Lines of Code](https://api.githubtrends.io/user/svg/MdMobid/langs?time_range=all_time&include_private=True&loc_metric=changed&theme=dark)](https://github.com/MdMobid)
