@@ -13,7 +13,7 @@
 
 ---
 
-## ⏱️ Coding Activity
+## 👨🏻‍💻 WakaTime Stats
 
 <!--START_SECTION:waka-->
 
