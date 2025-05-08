@@ -6,10 +6,10 @@
 
 ---
 
-## 🛠️ Languages and tools
+## 🛠️ Languages and Tools
 </br>
 
-[![Languages and Tools](https://skillicons.dev/icons?i=py,js,mysql,vscode,github,firebase,cloudflare,workers,nodejs,blender,html,css&perline=10)](https://github.com/MdMobid)
+[![Languages and Tools](https://skillicons.dev/icons?i=py,js,mysql,vscode,github,firebase,cloudflare,workers,nodejs,blender,html,css,md&perline=10)](https://github.com/MdMobid)
 
 ---
 
