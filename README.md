@@ -40,3 +40,10 @@ JSON          56 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </p>
 
 ⌛ *README automatically updates daily using GitHub Actions*
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+⌛ *README automatically updates daily using GitHub Actions*
