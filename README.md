@@ -9,7 +9,7 @@
 ## 🛠️ Languages and Tools
 </br>
 
-[![Languages and Tools](https://skillicons.dev/icons?i=py,js,mysql,vscode,github,firebase,cloudflare,workers,nodejs,blender,html,css,md&perline=10)](https://github.com/MdMobid)
+[![Languages and Tools](https://skillicons.dev/icons?i=py,js,mysql,vscode,github,firebase,cloudflare,workers,githubactions,nodejs,blender,html,css,md&perline=10)](https://github.com/MdMobid)
 
 ---
 
@@ -33,3 +33,10 @@ JSON          56 mins         ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ## 📈 Lines of Code
 [![Lines of Code](https://api.githubtrends.io/user/svg/MdMobid/langs?time_range=all_time&include_private=True&loc_metric=changed&theme=dark)](https://github.com/MdMobid)
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
+
+⌛ *README automatically updates daily using GitHub Actions*
