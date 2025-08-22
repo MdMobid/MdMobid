@@ -31,10 +31,6 @@ HTML          1 hr 12 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 ---
 
-## 📈 Lines of Code
-[![Lines of Code](https://api.githubtrends.io/user/svg/MdMobid/langs?time_range=all_time&include_private=True&loc_metric=changed&theme=dark)](https://github.com/MdMobid)
-
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </p>
