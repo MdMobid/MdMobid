@@ -1,6 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:051838,45:024b86,100:00d2ff&height=200&section=header&text=Md%20Mobid&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Systems%20Builder%20%E2%80%A2%20Open%20Source&descAlignY=64&descSize=18&animation=fadeIn"/>
-
 <div align="center">
+  
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:051838,45:024b86,100:00d2ff&height=200&section=header&text=Md%20Mobid&fontSize=56&fontColor=ffffff&fontAlignY=42&desc=Full-Stack%20Engineer%20%E2%80%A2%20AI%20Systems%20Builder%20%E2%80%A2%20Open%20Source&descAlignY=64&descSize=18&animation=fadeIn"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00D2FF&center=true&vCenter=true&width=620&lines=Crafting+Autonomous+AI+Voice+Agents;Architecting+Scalable+Cloud+%26+Full-Stack+Platforms;Building+Low-Latency+Real-Time+WebSocket+Engines;Passionate+about+Open-Source+%26+Clean+Code)](https://git.io/typing-svg)
   
@@ -49,12 +49,6 @@ motto: "Turn complex problems into clean, intuitive software."
 | **Backend & Real-Time** | [![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://github.com/MdMobid) [![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)](https://github.com/MdMobid) [![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)](https://github.com/MdMobid) [![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=fastapi&logoColor=white)](https://github.com/MdMobid) |
 | **Databases & Cloud** | [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)](https://github.com/MdMobid) [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://github.com/MdMobid) [![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)](https://github.com/MdMobid) |
 | **DevOps & Environment** | [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://github.com/MdMobid) [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)](https://github.com/MdMobid) [![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)](https://github.com/MdMobid) |
-<br/>
-
-<a href="https://github.com/MdMobid">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,c,nodejs,express,mysql,firebase,cloudflare,workers,githubactions,git,vscode,html,css&perline=8" />
-</a>
-
 </div>
 
 ---
