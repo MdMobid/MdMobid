@@ -66,7 +66,7 @@ Markdown      12 hrs 53 mins        ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ```
 
 <!--END_SECTION:waka-->
-<p align="center"><em>⌛ Automatically synchronized daily via GitHub Actions</em></p>
+<p align="center"><em>⌛ Cumulative stats tracked since May 2025 • Synchronized daily via GitHub Actions</em></p>
 
 ---
 ### 📈 GitHub Analytics & Engineering Velocity
